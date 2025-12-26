@@ -1,39 +1,43 @@
-##  Krishlay Pal
+## 👋 Hi, I’m Krishlay Pal
 
-💻 Full-Stack Web Developer  
-🚀 Laravel | PHP | React | Angular | Node.js  
+**Full-Stack Web Developer**  
+Laravel • PHP • React • Angular • Node.js  
 
 ---
+
+### 👨‍💻 About
+I’m a full-stack developer with **2+ years of experience** building real-world  
+**government portals, dashboards, and scalable web applications**.
+
+I enjoy working close to the backend while still caring deeply about clean UI and UX.
+
+---
+
 ### 🛠 Tech Stack
 
 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,tailwind" />
-</p>
+- React, Angular
+- Tailwind CSS, shadcn/ui
 
 **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,php" />
-</p>
+- Laravel, Node.js
+- REST APIs
 
 **Database & ORM**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,prisma" />
-</p>
+- MySQL, Prisma
 
-**UI & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
-
-
-### 📌 What I Build
-- Scalable dashboards & portals
-- REST APIs & backend systems
-- Modern UI with Tailwind + shadcn/ui
-- Clean, maintainable codebases
+**Tools**
+- Git, GitHub, Postman
 
 ---
 
-⭐ Open to **remote & full-time opportunities**  
-📍 India | 🌍 Remote-friendly
+### 🚀 What I Build
+- Scalable dashboards & portals  
+- REST APIs & backend systems  
+- Clean, maintainable full-stack applications  
+
+---
+
+### 🌍 Availability
+- 🇮🇳 Based in India  
+- 🌐 Open to **remote & full-time opportunities**
