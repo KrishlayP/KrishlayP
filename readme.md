@@ -35,19 +35,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishlayP&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishlayP&theme=tokyonight" />
-</p>
-
----
 
 ### 📌 What I Build
 - Scalable dashboards & portals
