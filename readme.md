@@ -2,6 +2,12 @@
 
 **Full-Stack Web Developer**  
 Laravel • PHP • React • Angular • Node.js  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,php" height="40"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind" height="40"/>
+</p>
 
 ---
 
