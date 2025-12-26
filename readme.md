@@ -4,15 +4,6 @@
 🚀 Laravel | PHP | React | Angular | Node.js  
 
 ---
-
-### 👨‍💻 About Me
-- 2+ years of experience in full-stack web development
-- Worked on **real-world government portals & dashboards**
-- Backend-heavy developer with clean architecture mindset
-- Comfortable building complete products end-to-end
-
----
-
 ### 🛠 Tech Stack
 
 **Frontend**
