@@ -23,6 +23,25 @@
 
 ---
 
+### 💼 Experience
+
+**Software Developer**  
+SIIC, IIT Kanpur  
+_Current_
+
+- Working on government-backed innovation & incubation portals
+- Full-stack development using modern web technologies
+- Dashboard development, APIs, and system improvements
+
+**Software Developer**  
+Campus365 (EdTech)
+
+- Worked on education management platforms
+- Fixed bugs and improved system stability
+- Contributed to backend and portal-level features
+
+---
+
 ### 🚀 What I Build
 - Scalable dashboards & portals  
 - REST APIs & backend systems  
