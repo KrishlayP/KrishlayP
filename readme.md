@@ -19,17 +19,7 @@ Backend-focused with strong attention to clean UI, UX, and maintainable code.
 
 ---
 
-### 🛠 Tech Stack
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,tailwind" height="40"/>
-</p>
-
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,php" height="40"/>
-</p>
+### Tech Stack
 
 **Database & ORM**
 <p>
