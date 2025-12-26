@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Krishlay Pal
+## 👋 Krishlay Pal
 
 **Full-Stack Web Developer**  
 Laravel • PHP • React • Angular • Node.js  
@@ -6,10 +6,10 @@ Laravel • PHP • React • Angular • Node.js
 ---
 
 ### 👨‍💻 About
-I’m a full-stack developer with **2+ years of experience** building real-world  
+Full-stack developer with **2+ years of experience** building real-world  
 **government portals, dashboards, and scalable web applications**.
 
-I enjoy working close to the backend while still caring deeply about clean UI and UX.
+Backend-focused with strong attention to clean UI, UX, and maintainable code.
 
 ---
 
@@ -39,5 +39,5 @@ I enjoy working close to the backend while still caring deeply about clean UI an
 ---
 
 ### 🌍 Availability
-- 🇮🇳 Based in India  
+- 🇮🇳 India  
 - 🌐 Open to **remote & full-time opportunities**
