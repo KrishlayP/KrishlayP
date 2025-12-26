@@ -1,4 +1,4 @@
-## 👋 Krishlay Pal
+## 👋 Krishlay Pal(2 year )
 
 **Full-Stack Web Developer**  
 
@@ -9,15 +9,6 @@
 </p>
 
 
----
-
-### 👨‍💻 About
-Full-stack developer with **2+ years of experience** building real-world  
-**government portals, dashboards, and scalable web applications**.
-
-Backend-focused with strong attention to clean UI, UX, and maintainable code.
-
----
 
 ### Tech Stack
 
