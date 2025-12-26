@@ -1,16 +1,15 @@
-## 👋 Krishlay Pal(2 year )
+## 👋 Krishlay Pal
 
-**Full-Stack Web Developer**  
+**Full-Stack Web Developer | 2+ Years Experience**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,php" height="40"/>
-    <img src="https://skillicons.dev/icons?i=react,angular,tailwind" height="40"/>
-
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind" height="40"/>
 </p>
 
+---
 
-
-### Tech Stack
+### 🛠 Tech Stack
 
 **Database & ORM**
 <p>
