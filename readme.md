@@ -1,4 +1,4 @@
-## Hi 👋 I'm Krishlay Pal
+##  Krishlay Pal
 
 💻 Full-Stack Web Developer  
 🚀 Laravel | PHP | React | Angular | Node.js  
