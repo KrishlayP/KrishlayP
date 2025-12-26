@@ -5,7 +5,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,php" height="40"/>
     <img src="https://skillicons.dev/icons?i=react,angular,tailwind" height="40"/>
-  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" height="40" title="shadcn/ui"/>
+
 </p>
 
 
