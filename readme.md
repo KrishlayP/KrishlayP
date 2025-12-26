@@ -16,18 +16,24 @@ Backend-focused with strong attention to clean UI, UX, and maintainable code.
 ### 🛠 Tech Stack
 
 **Frontend**
-- React, Angular
-- Tailwind CSS, shadcn/ui
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind" height="40"/>
+</p>
 
 **Backend**
-- Laravel, Node.js
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,php" height="40"/>
+</p>
 
 **Database & ORM**
-- MySQL, Prisma
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,prisma" height="40"/>
+</p>
 
 **Tools**
-- Git, GitHub, Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" height="40"/>
+</p>
 
 ---
 
